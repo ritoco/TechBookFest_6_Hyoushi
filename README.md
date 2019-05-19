@@ -8,7 +8,9 @@
 ソースコードをコピーしてエディターに貼り付けてください。<br />
 <br />
 https://editor.p5js.org/
-
+<br />
+<br />
 ### 関連リンク
-【技術書典6】本の表紙のソースコード
+【技術書典6】本の表紙のソースコード<br />
+<br />
 https://ritocopalette.hatenablog.com/entry/2019/04/17/015918
