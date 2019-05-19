@@ -4,8 +4,8 @@
 <br />
 <br />
 ### お手軽な実行方法
-お手軽な方法としてはp5.js公式のWeb Editorがオススメです。<br />
-ソースコードをコピーしてエディターに貼り付けてください。<br />
+お手軽な方法としては下記リンクのp5.js公式のWeb Editorがオススメです。<br />
+techbookfest_6_Hyoushi.jsをコピーしてエディターに貼り付けてください。<br />
 <br />
 https://editor.p5js.org/
 <br />
